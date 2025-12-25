@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
             hero_subtitle: "Minimalist. AI Developer. Vibe Coder. Shadow.",
             scroll_hint: "SCROLL DOWN",
             about_label: "ABOUT",
-            about_text: "Cybersecurity specialist. Vibe coding with AI in the shadows.",
+            about_text: "I deal with cyber security and do vibe coding with AI in my spare time.",
             projects_label: "PROJECTS",
             umbtrace_desc: "Advanced digital footprint tracking and OSINT analysis engine.",
             view_github: "View on GitHub →",
