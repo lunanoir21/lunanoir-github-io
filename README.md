@@ -2,7 +2,7 @@
 
 Minimalist developer portfolio for Luna Noir.
 
-**Live Site:** [https://lunanoir21.github.io/lunanoir-github-io/](https://lunanoir21.github.io/lunanoir-github-io/)
+**Live Site:** t https://lunanoir21.github.io/lunanoir-github-io/
 
 ## Features
 
